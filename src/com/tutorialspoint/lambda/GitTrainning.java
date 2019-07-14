@@ -9,6 +9,8 @@ public class GitTrainning {
 		System.out.println("Alfa");
 		System.out.println(new Date().getTime());
 		System.out.println("Gama");
+		System.out.println("Beta");
+
 		
 	}
 }
